@@ -270,26 +270,17 @@ http://localhost:5173
 
 ### Dashboard
 
-```text
-Add screenshot here:
-screenshots/dashboard.png
-```
+<img width="1615" height="812" alt="image" src="https://github.com/user-attachments/assets/0166ed97-f3ea-4db3-be74-e081902507fa" />
+
 
 ### Route Planner
+<img width="1493" height="737" alt="image" src="https://github.com/user-attachments/assets/b0015db6-bc4c-4678-8f30-90aa5a3e3b90" />
 
-```text
-Add screenshot here:
-screenshots/route-planner.png
-```
 
 ### AI Assistant
 
-```text
-Add screenshot here:
-screenshots/ai-assistant.png
-```
+<img width="1038" height="661" alt="image" src="https://github.com/user-attachments/assets/f7ee573b-8e1e-4d5f-9ec2-748993731562" />
 
----
 
 ## 🔮 Future Enhancements
 
